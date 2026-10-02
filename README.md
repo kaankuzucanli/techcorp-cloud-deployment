@@ -5,9 +5,9 @@
 > **Sunum Tarihi:** 3 Haziran 2026
 
 ## 👥 Proje Ekibi
-* **Kaan Kuzucanlı** (23010310051)
-* **Azmi Cankurtaran** (23640310034)
-* **Ahmet Nihat Karkaç** (23010310045)
+* **Kaan Kuzucanlı** 
+* **Azmi Cankurtaran** 
+* **Ahmet Nihat Karkaç** 
 
 ---
 
